@@ -223,6 +223,6 @@ ul.topnav li.icon {display: none;}
   display: flex;
   background-color: #000;      s
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: center;    
 }
 
